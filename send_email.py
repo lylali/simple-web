@@ -1,8 +1,9 @@
 import smtplib
+import os
 
-SENDER = 'dinglan.li.ldl@gmail.com'
-RECIPIENT = 'lyla.li.ldl@gmail.com'
-KEY = 'knyztkzgqfbflxjh'
+BLOG_SENDER_EMAIL = os.environ.get('BLOG_SENDER_EMAIL')
+BLOG_RECIPIENT = os.environ.get('BLOG_RECIPIENT')
+BLOG_KEY = os.environ.get('BLOG_KEY')
 
 class EmailManager:
     def __init__(self, name, email, phone, message):
@@ -15,5 +16,5 @@ class EmailManager:
     def send_email(self):
         with smtplib.SMTP('smtp.gmail.com', 587, timeout=120) as connection:
             connection.starttls()
-            connection.login(user=SENDER, password=KEY)
-            connection.sendmail(from_addr=SENDER, to_addrs=RECIPIENT, msg=self.message)
+            connection.login(user=BLOG_SENDER_EMAIL, password=BLOG_KEY)
+            connection.sendmail(from_addr=BLOG_SENDER_EMAIL, to_addrs=BLOG_RECIPIENT, msg=self.message)
