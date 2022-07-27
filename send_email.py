@@ -1,9 +1,9 @@
 import smtplib
 import os
 
-BLOG_SENDER_EMAIL = os.environ.get('BLOG_SENDER_EMAIL')
-BLOG_RECIPIENT = os.environ.get('BLOG_RECIPIENT')
-BLOG_KEY = os.environ.get('BLOG_KEY')
+BLOG_SENDER_EMAIL = os.getenv('BLOG_SENDER_EMAIL')
+BLOG_RECIPIENT = os.getenv('BLOG_RECIPIENT')
+BLOG_KEY = os.getenv('BLOG_KEY')
 
 class EmailManager:
     def __init__(self, name, email, phone, message):
