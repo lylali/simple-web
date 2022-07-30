@@ -1,5 +1,7 @@
 import smtplib
 import os
+from dotenv import load_dotenv
+load_dotenv()
 
 BLOG_SENDER_EMAIL = os.getenv('BLOG_SENDER_EMAIL')
 BLOG_RECIPIENT = os.getenv('BLOG_RECIPIENT')
