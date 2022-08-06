@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "8 Best Computer Science Courses for Beginners ",
+    "subtitle": "Based on my personal learning experience",
+    "body": "1. Harvard CS50\nOne of the most well-known introductory computer science courses. Professor Malan is very enthusiastic in his class. The course content is moderately difficult, but the coursework is very high-quality and all free and open source\n\n2. MIT-Missing-Semester\nThis course will teach you many tools or knowledge that are not covered in college but are extremely important to every programmer. For example shell programming, command line configuration, Git, Vim, tmux, ssh, etc. If you’re totally new to programming, better not miss this course.\nCourse website: https://missing.csail.mit.edu/2020/\n\n3. UC Berkeley CS61A: Structure and Interpretation of Computer Programs\nThis isn't just a programming language class, it dives into the principles of how programs are constructed and run. Finally you will implement a Scheme interpreter in Python in Project 4. Also, abstraction will be a big theme of this course, you will learn about functional programming, data abstraction, object orientation and more to make your code more readable and modular. You will master three programming languages: Python, Scheme and SQL. \nCourse website: https://inst.eecs.berkeley.edu/~cs61a/su20/\n\n4. 100 Days of Code: The Complete Python Pro Bootcamp for 2022 by Angela Yu\nThe courses on Udemy are more practical, so if you want to be proficient in python, I think this class is worth taking. This class basically covers all aspects of python development. And Dr. Angela Yu is a humorous mentor, good at dismantling concepts, you won't get bored with this long-term course. You'll complete dozens of small projects in this class, as well as 10 big portfolio projects. Personally, I find every project interesting. BTW, along with Corey Schafer’s python tutorials, you will gain more.\n"
+  },
+  {
+    "id": 2,
+    "title": "玻璃诗人",
+    "subtitle": "——致周梦蝶",
+    "body": "每天黄昏时你就掉落一片水玉\n像梅林掉落一颗梅子\n\n\n你问我：\n“你喜欢我的诗吗？” \n你又问月亮\n“你喜欢我的诗吗？” \n水说喜欢，珍珠说喜欢\n\n\n每天黄昏时你就掉落一片水玉\n你这位玲珑的小姐啊，\n一生天真，一生够不到你的疼痛\n一生流淌，一生无始无终\n从唐代到辛亥，你的灯火一场又一场\n人们朗诵你酥酥的胭脂\n人们清洗你光光的镜子\n你看到自己了吗？你是一扇晴朗的玻璃\n沾满人间沉重的指纹。\n那一年晚上，三毛对你喊“不要走！”\n可你还是羞羞地走了\n她哗啦啦地笑呀，像一条年幼的瀑布\n而你那弯弯的爱情\n是观音手心小小的柳条\n\n\n诗人，我将与你共享星湖、雪白的幼燕\n果林一半安眠，一半梳妆\n我们去把星星吹散吧！\n（夜空是一朵结满星星的蒲公英）\n我们去你的坟前升起月亮吧！\n我们把小羊羔抱回家吧！\n我们把地图重新拼到一起吧！\n我们把恨的都再深深恨上一遍\n也要把爱的都爱之入骨\n\n\n但诗终究是小于生命的。更多的是沉默\n以及沉默中轻轻的慌张。\n就像如果今夜梅子不熟透，不掉落\n我怎敢敲一敲你的纸门？\n你已经爱上那黄昏时被拉长的花朵\n而我们也只是看花的人\n\n\n是的，我们写诗写了太久\n我们是落入河中的两扇镜子——\n我的活虚构着你的活\n你的死阻挡了我的死"
+  },
+  {
+    "id": 3,
+    "title": "月亮鉴赏家",
+    "subtitle": "如今，月亮是我们唯一分有的东西",
+    "body": "他对她的爱必将载入史册：\n昨天，他从乌黑的枝头摘下两枚红山楂\n端坐词语不能企及的黑夜中\n所有伟大都必将散去，他摩挲掌心\n每斤泥土含有王尔德的灵魂三微克\n\n但人们用笑话替换童话、谎话替换神话\n将显影液滴入眼，才看到一枚珍珠浑圆\n\n他直面月亮，可是面月亮如面壁，毕竟\n照相术是残忍的，拉弓射箭是残忍的\n鉴赏更是。枪毙一朵玫瑰之后\n谁将痛饮隐秘的言语，平原上的风又刮过谁\n\n月下有犬儒，月下河水漫过河床\n在二十一世纪永恒的战壕里\n山盟海誓竟然如此无力\n只好暂且捧起保温杯，看上十年寂寞的白"
+  }
+]
