@@ -1,10 +1,9 @@
-import requests
+import json
 
-posts_endpoint = "https://api.npoint.io/c790b4d5cab58020d391"
 
-res = requests.get(url=posts_endpoint)
-res.raise_for_status()
-posts_data = res.json()
+with open('blog_source.json') as file:
+    posts_data = json.load(file)
+
 
 class GetPost:
     def __init__(self):
